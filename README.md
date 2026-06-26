@@ -1,291 +1,313 @@
 <!--
 =============================================================
   GITHUB PROFILE README — Harshita Yadav
-  Full Stack Developer · MERN · AI Enthusiast
-  Design Inspiration: Linear, Vercel, Stripe, GitHub
+  Style: Banner · Illustration · Icon Grid · Badge Stack
+  Inspired by: JoshuaThadi profile layout
 =============================================================
 -->
- 
+
 <!-- ============================================================
-     SECTION 1 — PROFESSIONAL HEADER
-     Purpose: First impression. Clean name + role + animated
-     typing effect creates a modern, recruiter-friendly hero.
-     Typing SVG keeps it animated without any external JS deps.
+     SECTION 1 — BANNER HEADER
+     Purpose: Eye-catching top banner with animated typing.
+     Creates strong first impression like the reference profile.
 ============================================================ -->
- 
+
 <div align="center">
-<h1>Hi 👋 I'm Harshita Yadav</h1>
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+scalable+web+applications;AI+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
- 
+
+[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Harshita%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18)](https://github.com/harshitayadav)
+
 </div>
+
 ---
- 
+
 <!-- ============================================================
      SECTION 2 — PROFESSIONAL INTRODUCTION
-     Purpose: 3–4 sentences that position Harshita as a
-     well-rounded engineer. Confident, not boastful.
+     Purpose: Brief intro paragraph. Confident, scannable.
 ============================================================ -->
- 
-I'm a Full Stack Developer focused on building **responsive, production-grade web applications** using the MERN stack and modern JavaScript frameworks. I care deeply about clean architecture, maintainable code, and scalable backend systems. Currently expanding my expertise into **AI engineering and cloud infrastructure**, with a particular interest in LLM-powered products and distributed systems.
- 
+
+<div align="center">
+
+💼 I'm a **Full Stack Developer** focused on building responsive and scalable web applications using the **MERN Stack** and modern JavaScript frameworks. Pursuing a strong foundation in **clean architecture**, **backend systems**, and currently diving deep into **AI and Cloud Computing**. I love turning ideas into real products. Simply to build things that matter. 🚀
+
+</div>
+
 ---
- 
+
 <!-- ============================================================
-     SECTION 3 — ABOUT ME
-     Purpose: Scannable bullet points that reveal personality,
-     work ethic, and professional interests. Recruiters skim first.
+     SECTION 3 — ABOUT ME (with illustration on the right)
+     Purpose: Mirrors the reference layout — bullet points left,
+     developer illustration right. Personal + professional mix.
 ============================================================ -->
- 
-## About Me
- 
-- 🔨 &nbsp;Building real-world projects that solve genuine problems
-- 💡 &nbsp;Passionate about both frontend craft and backend architecture
-- 🤖 &nbsp;Exploring AI, Generative AI, and cloud-native development
-- 🧩 &nbsp;Drawn to complex problems that require systems thinking
-- 📈 &nbsp;Continuously improving through shipping, iterating, and learning
-- 🌍 &nbsp;Interested in open source contribution and community collaboration
-- 🤝 &nbsp;Open to collaborating on meaningful products and side projects
----
- 
-<!-- ============================================================
-     SECTION 4 — DEVELOPER ILLUSTRATION PLACEHOLDER
-     Purpose: Visual anchor (right-aligned) to balance the text
-     sections. Replace the comment block below with your custom
-     SVG, Lottie embed, or illustration image URL.
-============================================================ -->
- 
+
+## 🧑‍💻 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/harshitayadav/harshitayadav/main/developer.gif" alt="Developer Illustration"
+onerror="this.style.display='none'"/>
+
 <!--
-  ┌──────────────────────────────────────────────┐
-  │         ILLUSTRATION PLACEHOLDER             │
-  │                                              │
-  │  Recommended:                                │
-  │  • Custom SVG illustration (coding/desk)     │
-  │  • Lottie animation via lottiefiles.com      │
-  │  • 3D avatar from ReadyPlayerMe              │
-  │                                              │
-  │  To use: Replace this comment with:          │
-  │  <img align="right" width="300"              │
-  │    src="YOUR_ILLUSTRATION_URL"               │
-  │    alt="Developer Illustration" />           │
-  └──────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────┐
+  │         ILLUSTRATION — RIGHT SIDE           │
+  │                                             │
+  │  The src above points to your repo.         │
+  │  Upload the developer GIF/PNG you shared    │
+  │  (Image 2 — the headphones coder) to:       │
+  │                                             │
+  │  YOUR_REPO/developer.gif                    │
+  │                                             │
+  │  Or replace the src with any hosted URL.    │
+  └─────────────────────────────────────────────┘
 -->
- 
+
+🔨 &nbsp;Currently building real-world projects and shipping code daily
+
+⚡ &nbsp;Worked on **MERN Stack** and hands-on **Full Stack** development
+
+💬 &nbsp;Ask me about **React, Node.js, MongoDB, REST APIs, and Next.js**
+
+🤖 &nbsp;Interest in **AI, GenAI, LangChain, RAG, and AI Agents**
+
+📚 &nbsp;Learning **System Design, Docker, AWS, and Cloud Architecture**
+
+🌍 &nbsp;Open to **Open Source contribution** and collaborations
+
+✨ &nbsp;I only like clean, maintainable, production-ready code
+
+<br clear="right"/>
+
 ---
- 
+
 <!-- ============================================================
      SECTION 5 — REACH ME
-     Purpose: Contact badges with consistent visual language.
-     Shields.io badges keep it clean and clickable.
+     Purpose: Contact badges. Matches reference style with
+     Gmail and LinkedIn prominently displayed.
 ============================================================ -->
- 
-## Connect
- 
-<div align="left">
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitayadav@gmail.com)
+
+## 📬 Reach Me On
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitayadav@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitayadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitayadav)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitayadav)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitayadav)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://harshitayadav.dev)
- 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshitayadav.dev)
+
 ---
- 
+
 <!-- ============================================================
-     SECTION 6 — LANGUAGES & TOOLS
-     Purpose: Organized by domain so recruiters and engineers
-     can immediately assess technical breadth and depth.
-     devicons give visual richness without clutter.
+     SECTION 6 — LANGUAGES & TOOLS (icon grid)
+     Purpose: Matches the reference profile's grid of devicons.
+     Visual and scannable — exactly like JoshuaThadi's layout.
 ============================================================ -->
- 
-## Languages & Tools
- 
-**Frontend**
- 
+
+## 🛠️ Languages & Tools I Have Placed My Hands On
+
+<div align="center">
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" title="Redux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" title="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" title="Material UI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" title="Next.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" title="Redux"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="42" title="Tailwind CSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="42" title="Material UI"/>
 </p>
-**Backend**
- 
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" title="Express.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" title="Firebase"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42" title="Supabase"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
 </p>
-**Database**
- 
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" title="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" title="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" title="Figma"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="42" title="NPM"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="42" title="Yarn"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="42" title="ESLint"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="42" title="Markdown"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="42" title="Vercel"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="42" title="Notion"/>
 </p>
-**AI & Machine Learning**
- 
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logoColor=white"/>
-</p>
-**Deployment & Tools**
- 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" title="Vercel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" title="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" title="NPM"/>
-</p>
+
+</div>
+
 ---
- 
+
 <!-- ============================================================
      SECTION 7 — TECH STACK BADGES
-     Purpose: Shields.io badges give a polished, scannable
-     summary of the full stack. Grouped for visual clarity.
+     Purpose: Colorful badge row matching reference profile's
+     "Tech Stack:" section with shields.io badges in rows.
 ============================================================ -->
- 
-## Tech Stack
- 
-**Frontend**
- 
+
+## 💻 Tech Stack:
+
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
- 
-**Backend**
- 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
- 
-**Database**
- 
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
- 
-**AI**
- 
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
- 
-**Deployment**
- 
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=flat-square&logoColor=white)
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
- 
-**Developer Tools**
- 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
- 
+
+</div>
+
 ---
- 
+
 <!-- ============================================================
      SECTION 8 — GITHUB ANALYTICS
-     Purpose: Data-driven credibility. Recruiters look at these
-     to assess activity, consistency, and language distribution.
-     Replace USERNAME with your actual GitHub username.
+     Purpose: Stats, streak, top languages, activity graph,
+     trophies, and summary cards. Mirrors reference profile.
 ============================================================ -->
- 
-## GitHub Analytics
- 
+
+## 📊 GitHub Analytics
+
 <div align="center">
-<!-- GitHub Stats Card -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=harshitayadav&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<!-- Top Languages Card -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitayadav&layout=compact&hide_border=true&theme=default&langs_count=8" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshitayadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitayadav&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+
 </div>
+
 <div align="center">
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=harshitayadav&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+<img src="https://streak-stats.demolab.com?user=harshitayadav&theme=tokyonight&hide_border=true" />
+
 </div>
+
 <div align="center">
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitayadav&theme=minimal&hide_border=true&area=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitayadav&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
+
 <div align="center">
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=harshitayadav&theme=flat&no-frame=true&column=7&margin-w=10" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshitayadav&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+
 </div>
+
 <div align="center">
-<!-- Profile Summary Cards -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitayadav&theme=default" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitayadav&theme=tokyonight" />
+
 </div>
+
 ---
- 
+
 <!-- ============================================================
      SECTION 9 — FEATURED PROJECTS
-     Purpose: Portfolio showcase. Clean card layout signals
-     product thinking, not just code writing ability.
-     Update repo links and live demo URLs before publishing.
+     Purpose: Elegant project cards with tech stack badges,
+     repo links, and live demo links.
 ============================================================ -->
- 
-## Featured Projects
- 
+
+## 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🖼️ Image Gallery</h3>
-      <p>A responsive image gallery application with search, filtering, and lazy loading. Optimized for performance with smooth UX.</p>
+      <p>A responsive image gallery with search, filtering, and lazy loading. Optimized for smooth UX and performance.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       </p>
-      <a href="https://github.com/harshitayadav/image-gallery">Repository</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/harshitayadav/image-gallery">📁 Repository</a> &nbsp;·&nbsp; <a href="#">🌐 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧮 Calculator</h3>
-      <p>A clean, keyboard-accessible calculator with expression history, percentage handling, and dark mode support.</p>
+      <p>A clean, keyboard-accessible calculator with expression history, percentage handling, and dark mode.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       </p>
-      <a href="https://github.com/harshitayadav/calculator">Repository</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/harshitayadav/calculator">📁 Repository</a> &nbsp;·&nbsp; <a href="#">🌐 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Portfolio Website</h3>
-      <p>Personal developer portfolio built with Next.js. Features project showcase, contact form, and optimized SEO.</p>
+      <p>Personal developer portfolio with project showcase, contact form, and SEO optimization.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </p>
-      <a href="https://github.com/harshitayadav/portfolio">Repository</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/harshitayadav/portfolio">📁 Repository</a> &nbsp;·&nbsp; <a href="#">🌐 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎵 Music Player</h3>
@@ -295,92 +317,99 @@ I'm a Full Stack Developer focused on building **responsive, production-grade we
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </p>
-      <a href="https://github.com/harshitayadav/music-player">Repository</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/harshitayadav/music-player">📁 Repository</a> &nbsp;·&nbsp; <a href="#">🌐 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 ShopNext</h3>
-      <p>Full-stack e-commerce platform with authentication, cart management, payment integration, and an admin dashboard.</p>
+      <p>Full-stack e-commerce platform with auth, cart, payment integration, and admin dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       </p>
-      <a href="https://github.com/harshitayadav/shopnext">Repository</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/harshitayadav/shopnext">📁 Repository</a> &nbsp;·&nbsp; <a href="#">🌐 Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <!-- Placeholder for a 6th project when ready -->
-      <h3>🚀 Coming Soon</h3>
-      <p>Next project in progress. Building something with AI agents and real-time data pipelines.</p>
-      <p><img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square"/></p>
+      <h3>🤖 AI Agent (Coming Soon)</h3>
+      <p>Building an AI-powered agent with LangChain, RAG pipeline, and real-time data processing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square"/>
+      </p>
+      <em>In progress...</em>
     </td>
   </tr>
 </table>
+
 ---
- 
+
 <!-- ============================================================
      SECTION 10 — CURRENT FOCUS
-     Purpose: Shows growth mindset and where skills are heading.
-     Signals ambition to recruiters at scale-stage companies.
+     Purpose: Shows ambition and direction. Signals to
+     recruiters that Harshita is actively levelling up.
 ============================================================ -->
- 
-## Currently Focused On
- 
-| Area | Status |
-|---|---|
-| ⚡ Next.js & Full-Stack Architecture | Active |
-| 🏗️ System Design | Learning |
-| 🐳 Docker & Containerization | Learning |
-| ☁️ AWS Cloud Fundamentals | Learning |
-| 🤖 AI Agents & Agentic Workflows | Exploring |
- 
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6E40C9?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
 ---
- 
+
 <!-- ============================================================
      SECTION 11 — ACHIEVEMENTS
-     Purpose: Social proof through GitHub metrics. Reinforces
-     activity and community engagement at a glance.
+     Purpose: Social proof. Visitor count, follower badge,
+     and trophy showcase add credibility.
 ============================================================ -->
- 
-## Achievements
- 
+
+## 🏆 Achievements
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshitayadav&theme=flat&no-frame=true&row=1&column=4" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshitayadav&theme=tokyonight&no-frame=true&row=1&column=4" />
+
 <br/><br/>
- 
-![Visitors](https://komarev.com/ghpvc/?username=harshitayadav&color=6E40C9&style=flat-square&label=Profile+Views)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/harshitayadav?style=flat-square&color=6E40C9&label=Followers)
-&nbsp;&nbsp;
-![Repos](https://img.shields.io/badge/Public_Repos-check_profile-6E40C9?style=flat-square&logo=github)
- 
+
+![Visitors](https://komarev.com/ghpvc/?username=harshitayadav&color=6E40C9&style=for-the-badge&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/harshitayadav?style=for-the-badge&color=6E40C9&label=Followers)
+
 </div>
+
 ---
- 
+
 <!-- ============================================================
      SECTION 12 — DEVELOPER QUOTE
-     Purpose: A thoughtful quote signals engineering maturity.
-     One quote, well chosen, adds personality without noise.
+     Purpose: Personality touch. One clean quote. No clutter.
 ============================================================ -->
- 
+
 <div align="center">
+
 > *"First, solve the problem. Then, write the code."*
 > — John Johnson
- 
+
 </div>
+
 ---
- 
+
 <!-- ============================================================
-     SECTION 13 — PROFESSIONAL FOOTER
-     Purpose: Clean closing that reinforces personal brand
-     and keeps the profile feeling complete, not abandoned.
+     SECTION 13 — ANIMATED FOOTER BANNER
+     Purpose: Mirrors the reference profile's bottom wave.
+     Closes the profile with the same visual language as the top.
 ============================================================ -->
- 
+
 <div align="center">
-<sub>Designed and maintained by **Harshita Yadav** · Full Stack Developer · Open to opportunities</sub>
- 
-<br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=13&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=Building+products+that+matter.;Writing+code+that+lasts.;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
- 
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn)](https://github.com/harshitayadav)
+
 </div>
