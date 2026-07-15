@@ -83,33 +83,10 @@ About Harshita:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
 
-### 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Prompt Engineering** | 🟣🟣🟣⚪⚪ | Structuring effective prompts for LLM-driven features |
-| **LangChain** | 🟣🟣🟣⚪⚪ | Building chains and agent workflows on top of LLMs |
-| **RAG Pipelines** | 🟣🟣⚪⚪⚪ | Retrieval-augmented generation with vector search |
-| **OpenAI / Gemini APIs** | 🟣🟣🟣⚪⚪ | Integrating LLM APIs into full-stack applications |
-| **Vector Databases** | 🟣🟣⚪⚪⚪ | Working with Pinecone for embeddings & similarity search |
-| **AI Agents** | 🟣🟣⚪⚪⚪ | Exploring autonomous, tool-using agent architectures |
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏅 GitHub Trophies | See live trophy case below |
-| 📈 Consistent Contributor | Active daily commit streak |
-
-</div>
-
----
 
 ### 📊 GitHub Analytics
 
